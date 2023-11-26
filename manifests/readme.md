@@ -19,7 +19,7 @@ aws eks update-kubeconfig --name EKS_CLUSTER_NAME --region us-west-2
 clone the AWS repo
 git clone
 
-Create Nepaltech mahadev
+Create namespace mahadev
 kubectl create ns mahadev
 
 set default namespace to mahadev
